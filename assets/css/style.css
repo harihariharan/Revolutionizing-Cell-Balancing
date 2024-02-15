@@ -960,7 +960,7 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background: rgba(42, 42, 42, 0.7);
+  /*background: rgba(42, 42, 42, 0.7);*/   /*To give black border on bottom uncomment this*/
 }
 
 .portfolio .portfolio-wrap::before {
